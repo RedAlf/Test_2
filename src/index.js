@@ -67,7 +67,7 @@ answer.onclick = function() {
         alert( availableMoves );
 
     } else {
-        alert( 'Вводимое исходное положение должно быть вида A1, A2 ... H8' );
+        alert( 'Некорректные данные' );
     }
 }
 
